@@ -1,0 +1,18 @@
+{
+  "name": "gg-no-re",
+  "main": "index.js",
+  "homepage": "https://github.com/gregthompson27/gg-no-re",
+  "authors": [
+    "Gregory Thompson <gregthompson27@gmail.com>"
+  ],
+  "description": "game library",
+  "keywords": [
+    "videogame",
+    "gaming",
+    "tagpro"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

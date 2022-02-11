@@ -1,5 +1,3 @@
-### Game Lib
+### GG NO RE
 
-The starter code for our gaming library.
-
-See project instructions in Greenlight.
+This is the gaming library for GG NO RE
